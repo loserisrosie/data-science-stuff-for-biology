@@ -1,2 +1,1 @@
-# data science stuff for biology
-# use if ya wanna
+# NOT RELIABLE DOES NO WORK DO NOT USE
